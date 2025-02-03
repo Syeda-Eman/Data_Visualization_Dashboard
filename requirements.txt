@@ -1,6 +1,6 @@
-streamlit==1.36.0
-pandas==1.5.3
-matplotlib==3.7.1
-seaborn==0.12.2
-plotly==5.9.0
-python-pptx==1.0.2
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+python-pptx
